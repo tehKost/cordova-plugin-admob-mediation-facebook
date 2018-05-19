@@ -16,12 +16,4 @@
         <framework src="com.google.ads.mediation:facebook:4.27.1.0" />
     </platform>
 
-    <platform name="ios">
-        <pods-config ios-min-version="9.0" use-frameworks="true" />
-        <pod name="FBAudienceNetwork" version="4.27.1" />
-        <pod name="GoogleMobileAdsMediationFacebook" version="4.27.1.0" />
-    </platform>
-    
-    <dependency id="cordova-plugin-cocoapod-support" version="1.3.0" />
-
 </plugin>
